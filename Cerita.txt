@@ -1,5 +1,5 @@
 Kalau kamu baca ini selamat kamu berhasil pake git wkwk
-<<<<<<< HEAD
+
 semangat sparta kawan
 =======
 
@@ -13,3 +13,6 @@ Karena berpikir keras, tiba-tiba Makaji lapar. Akhirnya ia berjalan menuju Warmi
 
 Dia melihat seseorang memakan indomie 10 bungkus sekaligus  #M Dehan Al Kautsar - 16519213
 Lalu ada seorang kawan mengampiri dirinya sambil membawa tas gunung eigernya 
+
+test
+
